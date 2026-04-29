@@ -1,0 +1,4 @@
+airflow/airflow_conf/airflow-webserver.pid
+airflow/airflow_conf/airflow.cfg
+airflow/dags/__pycache__
+.env
